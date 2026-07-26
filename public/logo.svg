@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" fill="none">
+  <!-- Leaf mark -->
+  <g transform="translate(4, 4)">
+    <!-- Leaf body -->
+    <path d="M16 44 C4 36 0 16 8 6 C16 -4 32 0 36 10 C40 20 28 44 16 44 Z"
+      fill="oklch(0.52 0.18 155)" opacity="0.9"/>
+    <!-- Leaf vein / heartbeat line -->
+    <path d="M16 42 C18 30 16 18 20 10"
+      stroke="oklch(0.99 0.01 155)" stroke-width="1.8" fill="none"
+      stroke-linecap="round" opacity="0.7"/>
+    <!-- Leaf stem -->
+    <line x1="17" y1="44" x2="17" y2="48" stroke="oklch(0.52 0.18 155)"
+      stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Main text: VitalEdge -->
+  <text x="50" y="34" font-family="system-ui, -apple-system, sans-serif"
+    font-size="22" font-weight="700" letter-spacing="-0.5" fill="oklch(0.18 0.01 155)">
+    Vital<tspan fill="oklch(0.52 0.18 155)">Edge</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="50" y="48" font-family="system-ui, -apple-system, sans-serif"
+    font-size="9.5" font-weight="500" letter-spacing="1.2"
+    fill="oklch(0.48 0.10 210)">
+    HEALTH COACHING
+  </text>
+</svg>
